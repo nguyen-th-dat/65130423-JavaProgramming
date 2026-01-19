@@ -3,13 +3,6 @@
 ## Giới thiệu
 Repository này dùng để lưu **bài tập và bài thực hành môn Lập trình Thiết bị Di động**.
 
-## Thông tin sinh viên
-
-* Tên sinh viên: **Nguyễn Thành Đạt**
-* MSSV: **65130423**
-* Trường : **[Đại học Nha Trang](https://ntu.edu.vn/)**
-
-
 ## Thông tin về học phần
 
 ### Tên học phần:
@@ -27,6 +20,12 @@ Học phần cung cấp các kiến thức để người học có thể xây d
 65130423-JavaProgramming/
 │── README.md
 ```
+## Thông tin sinh viên
+
+* Tên sinh viên: **Nguyễn Thành Đạt**
+* MSSV: **65130423**
+* Trường : **[Đại học Nha Trang](https://ntu.edu.vn/)**
+
 
 
 
