@@ -18,6 +18,7 @@ Học phần cung cấp các kiến thức để người học có thể xây d
 ## Cấu trúc thư mục
 ```
 65130423-JavaProgramming/
+│── Lab_1/
 │── README.md
 ```
 ## Thông tin sinh viên
