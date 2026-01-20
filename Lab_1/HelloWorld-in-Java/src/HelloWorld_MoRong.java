@@ -5,8 +5,7 @@ public class HelloWorld_MoRong {
         // Lệnh in ra màn hình
         System.out.println("Xin chào thế giới Java!");
         System.out.println("Chào mừng đến với lập trình Java");
-        System.out.print("Tôi là Nguyễn Thành Đạt");
-        System.out.println(" - MSSV: 65130423");
+        System.out.println("Tôi là Nguyễn Thành Đạt,  MSSV: " + 65130423);
 
     }
 }
