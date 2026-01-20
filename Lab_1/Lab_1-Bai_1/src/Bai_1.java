@@ -7,7 +7,8 @@ public class Bai_1 {
         String hoTen = scanner.nextLine();
         System.out.print("Điểm TB: ");
         double diemTB = scanner.nextDouble();
-        System.out.printf("%s %f điểm", hoTen, diemTB);
+//        System.out.printf("%s %f điểm", hoTen, diemTB);
+        System.out.println("Ho ten: " + hoTen + " Diem TB: " + diemTB);
     }
 
 }
