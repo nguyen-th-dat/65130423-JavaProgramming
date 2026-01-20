@@ -19,7 +19,7 @@ Học phần cung cấp các kiến thức để người học có thể xây d
 ```
 65130423-JavaProgramming/
 │── Lab_1/
-│── README.md
+└── README.md
 ```
 ## Thông tin sinh viên
 
