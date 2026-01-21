@@ -13,7 +13,7 @@ Bài 1 của Lab 1
 Lab_1-Bai-1/
 ├── De/
 ├── src/
-│ └── Bai_1.java
+│ └── Main.java
 └── README.md
 ```
 
