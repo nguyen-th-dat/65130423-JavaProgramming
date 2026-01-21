@@ -7,6 +7,11 @@ public class Main {
         String hoTen = scanner.nextLine();
         System.out.print("Điểm TB: ");
         double diemTB = scanner.nextDouble();
+        while (diemTB < 0 || diemTB > 10)
+        {
+            System.out.print("Điểm TB phai nam trong khoan tu 0 den 10: ");
+            diemTB = scanner.nextDouble();
+        }
 //        System.out.printf("%s %f điểm", hoTen, diemTB);
         System.out.println("Ho ten: " + hoTen + " Diem TB: " + diemTB);
     }
