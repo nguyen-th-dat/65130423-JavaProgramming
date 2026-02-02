@@ -5,8 +5,7 @@ Bài 2 của Lab 1
 
 ## Đề
 
-![De](De\img.png)
-
+![De](De/img.png)
 
 
 ## Cấu trúc thư mục
