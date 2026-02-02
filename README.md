@@ -19,7 +19,7 @@ Học phần cung cấp các kiến thức để người học có thể xây d
 ```
 65130423-JavaProgramming/
 ├── BaiTap/
-├── Lab_1/
+├── Lab/
 └── README.md
 ```
 ## Thông tin sinh viên
